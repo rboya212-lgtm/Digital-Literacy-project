@@ -30,7 +30,7 @@ Drafted two professional emails and created a social media do’s and don’ts c
 Prepared a case study on cybercrime and created a prevention checklist for students.
 
 ## Useful Links
-- **GitHub Profile:** 
+- **GitHub Profile:** https://github.com/rboya212-lgtm
 - **LinkedIn Profile:** www.linkedin.com/in/rajesh-boya-28b205370
 - **Google Form Link:** 
 ## Repository Structure
